@@ -2,7 +2,7 @@
 OpenLoop Network is a decentralized wireless network built to enhance Internet service delivery, making it more efficient, accessible, and rewarding for everyone. 🤩
 
 - Register [https://openloop.so/](https://openloop.so/)
-- Reff Code = ol9b5402eb
+- Reff Code = ol5391f334
 
 ## **Features**
 
@@ -30,8 +30,8 @@ put your proxy in file `proxies.txt` format `http://username:pass@ip:port`
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/airdropinsiders/OpenLoop-Bot.git
-   cd OpenLoop-Bot
+   git clone https://github.com/bebenmahardika/OpenLoop_Bot.git
+   cd OpenLoop_Bot
    ```
 2. Install dependencies:
    ```bash
