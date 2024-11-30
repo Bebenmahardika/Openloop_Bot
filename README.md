@@ -41,11 +41,15 @@ put your proxy in file `proxies.txt` format `http://username:pass@ip:port`
    ```bash
    nano config.js
    ```
-4. Setup to create accounts and get Tokens:
+4. Setup proxies:
+   ```bash
+   nano proxies.txt
+   ```
+5. Setup to create accounts and get Tokens:
    ```bash
    npm run setup
    ```
-5. Run The Script:
+6. Run The Script:
    ```bash
    npm run start
    ```
