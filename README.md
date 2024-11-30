@@ -25,7 +25,7 @@ if you already have account you can put `access-token` to `token.txt`,
 put your proxy in file `proxies.txt` format `http://username:pass@ip:port`
 
 ![intro](image-1.png)
-
+![intro](image-2.png)
 ## Setup
 
 1. Clone this repository:
