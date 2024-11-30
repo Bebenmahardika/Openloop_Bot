@@ -37,7 +37,7 @@ put your proxy in file `proxies.txt` format `http://username:pass@ip:port`
    ```bash
    npm install
    ```
-3. Setup bot telegram:
+3. Setup bot telegram: (False ae biar gak ribet, males jelasinya)
    ```bash
    nano config.js
    ```
